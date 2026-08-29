@@ -1,2 +1,2 @@
-# shaliniindla.github.io
+indlashalini.github.io
 My personal portfolio website
